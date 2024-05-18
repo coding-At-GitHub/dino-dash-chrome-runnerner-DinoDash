@@ -5,3 +5,5 @@ redux
 redux toolkit
 javascript
 typescript
+
+nextjs
