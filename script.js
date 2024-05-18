@@ -9,6 +9,7 @@ typescript
 react native
 nextjs
 
+tailwind css
 material ui
 
 node js
