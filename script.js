@@ -6,4 +6,5 @@ redux toolkit
 javascript
 typescript
 
+react native
 nextjs
