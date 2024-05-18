@@ -12,6 +12,7 @@ nextjs
 tailwind css
 material ui
 
+angular material
 node js
 angular
 
