@@ -8,8 +8,9 @@ typescript
 
 react native
 nextjs
-node js
 
+node js
+angular
 
 
 
