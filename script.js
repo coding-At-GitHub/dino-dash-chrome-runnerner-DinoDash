@@ -1,5 +1,6 @@
 const a = "file";
 const btn = "button";
+const togg = 'toggle';
 
 growth increment 
 high package 
