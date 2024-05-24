@@ -1,3 +1,6 @@
+web app
+mobile app
+desktop app
 const a = "file";
 const btn = "button";
 const togg = 'toggle';
