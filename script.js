@@ -1,6 +1,7 @@
 web app
 mobile app
-desktop app
+desktop app java
+
 const a = "file";
 const btn = "button";
 const togg = 'toggle';
