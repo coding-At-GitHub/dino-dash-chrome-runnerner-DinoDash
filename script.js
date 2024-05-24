@@ -2,7 +2,7 @@ const a = "file";
 const btn = "button";
 const togg = 'toggle';
 const grow = 'growth-grwo';
-const yout = 'youtube';
+const yout = 'youtube-web app';
 const altern = 'alternatively';
 
 growth increment 
