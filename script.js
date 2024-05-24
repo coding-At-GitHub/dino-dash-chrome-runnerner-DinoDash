@@ -3,7 +3,7 @@ const btn = "button";
 const togg = 'toggle';
 const grow = 'growth';
 const yout = 'youtube';
-const altern = 'alterntively';
+const altern = 'alternatively';
 
 growth increment 
 high package 
