@@ -1,7 +1,7 @@
 const a = "file";
 const btn = "button";
 const togg = 'toggle';
-const grow = 'growth';
+const grow = 'growth-grwo';
 const yout = 'youtube';
 const altern = 'alternatively';
 
