@@ -1,7 +1,7 @@
 leet code 
 DSA 
 
-  web app php- node
+web app php- node
 mobile app
 desktop app java
 
