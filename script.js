@@ -1,3 +1,5 @@
+react js 
+  redux
 coming back
 app React Native 
 leet code 
