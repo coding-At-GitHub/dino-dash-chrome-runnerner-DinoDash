@@ -1,5 +1,6 @@
 React 
 redux toolkit 
+node js
   
 
 react js interview questions 
