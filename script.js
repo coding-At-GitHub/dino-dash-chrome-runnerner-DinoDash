@@ -1,7 +1,8 @@
 React 
 redux toolkit 
 node js
-mongi db
+mongo db
+sql
   
 
 react js interview questions 
