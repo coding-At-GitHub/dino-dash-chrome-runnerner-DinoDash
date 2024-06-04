@@ -23,17 +23,6 @@ web app php- node
 mobile app
 desktop app java
 
-
-const a = "file";
-const btn = "button";
-const togg = 'toggle';
-const grow = 'growth-grwo';
-const yout = 'youtube-web app';
-const altern = 'alternatively';
-
-growth increment 
-high package 
-
 react
 redux
 redux toolkit
