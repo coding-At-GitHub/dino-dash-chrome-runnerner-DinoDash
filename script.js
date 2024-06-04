@@ -4,13 +4,7 @@ node js
 express 
 mongo db
 sql
-  
 
-react js interview questions 
-e yrs experience 
-  react js 
-  redux
-coming back
 app React Native 
 leet code 
 React 
@@ -21,7 +15,7 @@ RPA UI path
 
 web app php- node
 mobile app
-desktop app java
+desktop app java 
 
 react
 redux
