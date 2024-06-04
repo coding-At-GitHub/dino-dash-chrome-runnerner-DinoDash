@@ -5,11 +5,9 @@ express
 mongo db
 sql
 
-app React Native 
 leet code 
 React 
 DSA 
-native 
 oops java
 RPA UI path 
 
@@ -35,8 +33,7 @@ angular
 
 experience 
 youtube 
-backend 
-nodejs
+backend
 
 java
 springboot
