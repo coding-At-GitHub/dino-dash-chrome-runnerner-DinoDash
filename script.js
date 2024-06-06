@@ -2,7 +2,7 @@ React
 redux toolkit 
 node js
 express 
-mongo db
+mongo db queries 
 sql queries 
 
 
