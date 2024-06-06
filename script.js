@@ -3,7 +3,8 @@ redux toolkit
 node js
 express 
 mongo db
-sql
+sql queries 
+
 
 leet code 
 React 
