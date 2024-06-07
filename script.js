@@ -4,7 +4,7 @@ node js
 express 
 mongo db queries 
 sql queries 
-database 
+databases
 
 leet code 
 React 
