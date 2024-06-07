@@ -1,7 +1,7 @@
 React 
 redux toolkit 
 node js
-express 
+express js
 mongo db queries 
 sql queries 
 databases
