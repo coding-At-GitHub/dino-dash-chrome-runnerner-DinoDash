@@ -1,5 +1,5 @@
 PWA progressive web apps
-SSR
+SSR server side rendering
   
 React js
 use transition 
