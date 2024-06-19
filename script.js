@@ -42,10 +42,6 @@ experience
 youtube 
 backend
 
-java
-springboot
 devops
 node backend
 express
-
-
