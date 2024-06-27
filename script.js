@@ -27,10 +27,7 @@ react
 redux
 redux toolkit
 javascript
-typescript
-
-react native
-nextjs
+Typescript 
 
 tailwind css
 material ui
