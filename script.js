@@ -36,7 +36,6 @@ angular material
 node js
 
 experience 
-youtube 
 backend
 
 devops
