@@ -24,7 +24,6 @@ mobile app
 desktop app java 
 
 react
-redux
 redux toolkit
 javascript
 Typescript 
