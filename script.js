@@ -34,7 +34,6 @@ material ui
 
 angular material
 node js
-angular
 
 experience 
 youtube 
