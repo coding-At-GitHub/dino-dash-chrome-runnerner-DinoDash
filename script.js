@@ -27,8 +27,7 @@ javascript
 Typescript 
 
 tailwind css
-material ui
-
+material ui css
 angular material
 node js
 
