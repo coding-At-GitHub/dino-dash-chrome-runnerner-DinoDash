@@ -20,8 +20,7 @@ RPA UI path
 
 web app php- node
 mobile app
-desktop app java 
-
+desktop app jav
 react
 redux toolkit
 javascript
