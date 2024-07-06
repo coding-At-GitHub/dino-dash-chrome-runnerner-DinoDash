@@ -29,8 +29,7 @@ tailwind css
 material ui css
 angular material
 node js
-
-experience 
+experienc
 backend
 
 devops
