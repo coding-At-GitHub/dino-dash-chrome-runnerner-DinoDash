@@ -46,7 +46,6 @@ node js
 experienc
 backend
 
-devops
 node backend nodeRsa 
 express js
 js
