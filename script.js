@@ -24,7 +24,6 @@ node js
 express js
 mongo db queries 
 sql queries 
-databases
 leet code 
 React 
 DSA 
