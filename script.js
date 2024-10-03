@@ -45,5 +45,3 @@ experienc
 backend
 
 nodeRsa 
-express js
-js
