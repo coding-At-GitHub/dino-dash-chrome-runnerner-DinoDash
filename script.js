@@ -39,7 +39,6 @@ Typescript
 
 tailwind css
 material ui css
-angular material
 node js
 experienc
 backend
