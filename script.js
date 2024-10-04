@@ -39,6 +39,5 @@ javascript
 tailwind css
 material ui css
 node js
-backend
 
 nodeRsa 
