@@ -35,7 +35,6 @@ desktop app jav
 react
 redux toolkit
 javascript
-Typescript 
 
 tailwind css
 material ui css
